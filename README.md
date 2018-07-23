@@ -3,6 +3,15 @@ Instead of uploading your personal docs to some other websites for quick merging
 
 Beware of online websites, we never know where our docs will go
 
+Softwares required 
+git 
+node 
+your favorite IDE
+
+Application setup 
+Clone this git repo
+npm install
+
 Step 1
 Copy your multiple files in the same location of easyPDFMerge.js file as 1.pdf
 
