@@ -1,7 +1,6 @@
  # Merge files by Node JS Program Safely  # 
 Instead of uploading your personal docs to some other websites for quick merging, use this node program for merging which is dependent on easyfileMerge node module and it is dependent on pdfbox.jar java program.
 
-Beware of online websites, we never know where our docs will go<br/>
 <br/>
 Softwares required <br/>
      * git <br/>
