@@ -1,0 +1,17 @@
+{
+  "name": "pdfmerge",
+  "version": "1.0.0",
+  "description": "mergePDF",
+  "main": "index.js",
+  "dependencies": {
+    "easy-pdf-merge": "^0.1.3",
+    "pdf-merge": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node easyPDFMerge.js",
+    "test": "test"
+  },
+  "author": "vivek",
+  "license": "ISC"
+}
