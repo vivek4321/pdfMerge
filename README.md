@@ -1,5 +1,5 @@
-split files by using chrome
-merge file with this node program, Don't upload your personal docs to some other websites for quick merging.
+Split files by using chrome.
+Instead of uploading your personal docs to some other websites for quick merging, use this node program for merging which is dependent on easyfileMerge node module and it is dependent on pdfbox.jar java program.
 
 Beware of online websites, we never know where our docs will go
 
